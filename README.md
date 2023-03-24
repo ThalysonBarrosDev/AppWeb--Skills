@@ -16,6 +16,8 @@ Aplicação Web Utilizando API REST
         - POST: http://127.0.0.1:8000/api/v1/skills
         - PUT: http://127.0.0.1:8000/api/v1/skills/id
         - DELETE: http://127.0.0.1:8000/api/v1/skills/id
+    - Documentação Auxiliar:
+        - https://documenter.getpostman.com/view/12830766/2s93RNwu8K
 
 - Aplicação ➡️
     - Serviço:
