@@ -1,8 +1,8 @@
 # CRUD Completo Com Laravel 9, Vue JS 3 e Tailwind CSS
 
-- Aplicação Web Utilizando API REST
+Aplicação Web Utilizando API REST
 
-API REST ➡️
+- API REST ➡️
     - Serviço:
         - Diretório: /backend
         - Iniciar: php artisan serve
@@ -17,7 +17,7 @@ API REST ➡️
         - PUT: http://127.0.0.1:8000/api/v1/skills/id
         - DELETE: http://127.0.0.1:8000/api/v1/skills/id
 
-Aplicação ➡️
+- Aplicação ➡️
     - Serviço:
         - Diretório: /frontend
         - Iniciar: npm run dev
